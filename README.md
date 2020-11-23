@@ -1,0 +1,1 @@
+This is Terence's first Git project!
